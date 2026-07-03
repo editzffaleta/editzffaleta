@@ -1,15 +1,58 @@
+<!-- ============================================================
+     PERFIL DE BRUNO ZAFRIEL FALETA (@editzffaleta)
+     Paleta: verde #2ea043 · azul #1f6feb · fundo #0d1117
+     ============================================================ -->
+
 <!-- BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:2ea043&height=200&section=header&text=editzffaleta&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20%7C%20Brasil&descAlignY=58&descSize=18" width="100%" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:2ea043&height=210&section=header&text=editzffaleta&fontColor=ffffff&fontSize=62&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor%20TypeScript%20%7C%20Brasil%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=58&descSize=18" width="100%" alt="banner"/>
 </div>
 
-<!-- APRESENTAÇÃO -->
-<h3 align="center">Bem-vindo(a) ao meu perfil! 👋</h3>
-<p align="center">
-  Sou um desenvolvedor brasileiro 🇧🇷 apaixonado por construir aplicações web, plataformas corporativas e ferramentas que resolvem problemas reais.
-  <br/>
-  Trabalho principalmente com <b>TypeScript</b> e desenvolvimento web.
-</p>
+<!-- TEXTO DIGITANDO -->
+<div align="center">
+  <a href="https://github.com/editzffaleta">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=2EA043&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Bruno!+%F0%9F%91%8B;Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o+%F0%9F%9A%80;TypeScript+%C3%A9+minha+linguagem+do+cora%C3%A7%C3%A3o+%F0%9F%92%9A;Construindo+ferramentas+que+resolvem+problemas+reais" alt="Texto animado de apresentação"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- SOBRE MIM -->
+## 🧑‍💻 Sobre mim
+
+```typescript
+const bruno = {
+  nome: "Bruno Zafriel Faleta",
+  localizacao: "Brasil 🇧🇷",
+  funcao: "Desenvolvedor Web",
+  foco: ["Aplicações web", "Plataformas corporativas", "Ferramentas de IA"],
+  linguagemDoCoracao: "TypeScript",
+  aprendendoAgora: "Sempre alguma coisa nova 🚀",
+  fatoDivertido: "Acredito que todo problema real merece uma ferramenta bem feita",
+} as const;
+
+type Desenvolvedor = typeof bruno; // em constante evolução 😉
+```
+
+- 🔭 Atualmente construindo o **[OpenCraft](https://github.com/editzffaleta/OpenCraft)** — seu próprio assistente pessoal de IA
+- 🌱 Evoluindo todos os dias em **TypeScript** e no ecossistema web
+- 💬 Pode me chamar para falar de **JavaScript, Node.js e React**
+- ⚡ Lema: *código bom é código que resolve problema de verdade*
+
+> [!TIP]
+> Estou sempre aberto a trocar ideia sobre projetos e colaborações — é só abrir uma issue ou discussão em qualquer repositório meu!
+
+<br/>
+
+<!-- PROJETO EM DESTAQUE -->
+## 🚀 Projeto em destaque
+
+<div align="center">
+  <a href="https://github.com/editzffaleta/OpenCraft">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=editzffaleta&repo=OpenCraft&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=1f6feb&text_color=c9d1d9" alt="OpenCraft"/>
+  </a>
+  <p><i>Seu próprio assistente pessoal de IA, em um universo só seu.<br/>Qualquer sistema operacional. Qualquer plataforma. Brasileiro. 🇧🇷</i></p>
+</div>
 
 <br/>
 
@@ -17,17 +60,38 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,html,css&perline=6" alt="TypeScript, JavaScript, Node.js, React, HTML5, CSS3"/>
+  </a>
   <br/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Git, GitHub, VS Code"/>
+  </a>
 </div>
+
+<details>
+  <summary>🧠 <b>Ver minha stack como mapa mental</b> (renderizado nativamente pelo GitHub!)</summary>
+  <br/>
+
+```mermaid
+mindmap
+  root((Bruno 🇧🇷))
+    Linguagens
+      TypeScript 💚
+      JavaScript
+    Web
+      React
+      Node.js
+      HTML5 & CSS3
+    Ferramentas
+      Git & GitHub
+      VS Code
+    Construindo
+      OpenCraft 🤖
+      Plataformas corporativas
+```
+
+</details>
 
 <br/>
 
@@ -35,12 +99,50 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=editzffaleta&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=1f6feb&text_color=c9d1d9" alt="stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=editzffaleta&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&text_color=c9d1d9" alt="top languages"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=editzffaleta&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=1f6feb&text_color=c9d1d9&rank_icon=github" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=editzffaleta&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&text_color=c9d1d9" alt="Linguagens mais usadas"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=editzffaleta&theme=tokyonight&hide_border=true&background=0d1117&ring=2ea043&fire=1f6feb&currStreakLabel=2ea043" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=editzffaleta&theme=tokyonight&hide_border=true&background=0d1117&ring=2ea043&fire=1f6feb&currStreakLabel=2ea043&locale=pt_BR" alt="Sequência de contribuições"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=editzffaleta&bg_color=0d1117&color=c9d1d9&line=2ea043&point=1f6feb&area=true&area_color=2ea043&hide_border=true&custom_title=Gr%C3%A1fico%20de%20atividade" width="95%" alt="Gráfico de atividade"/>
+</div>
+
+<details>
+  <summary>📈 <b>Mais estatísticas</b> (clique para expandir)</summary>
+  <br/>
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=editzffaleta&theme=tokyonight" width="95%" alt="Detalhes do perfil"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=editzffaleta&theme=tokyonight&utcOffset=-3" width="48%" alt="Horários mais produtivos"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=editzffaleta&theme=tokyonight" width="48%" alt="Linguagens com mais commits"/>
+  </div>
+</details>
+
+<br/>
+
+<!-- COBRINHA DAS CONTRIBUIÇÕES -->
+## 🐍 Cobrinha das contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/editzffaleta/editzffaleta/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/editzffaleta/editzffaleta/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/editzffaleta/editzffaleta/output/github-snake.svg" alt="Cobrinha comendo as contribuições"/>
+  </picture>
+</div>
+
+<br/>
+
+<!-- CITAÇÃO -->
+## 💭 Citação dev do momento
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Citação aleatória de desenvolvimento"/>
 </div>
 
 <br/>
@@ -65,9 +167,9 @@ Depois troque os "#" pelos links reais e o e-mail.
 
 <!-- RODAPÉ -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=editzffaleta&label=Visitas%20no%20perfil&color=2ea043&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=editzffaleta&label=Visitas%20no%20perfil&color=2ea043&style=flat" alt="Contador de visitas"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="rodapé"/>
 </div>
