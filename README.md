@@ -113,8 +113,8 @@ mindmap
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=editzffaleta&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=1f6feb&text_color=c9d1d9&rank_icon=github" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=editzffaleta&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&text_color=c9d1d9" alt="Linguagens mais usadas"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=editzffaleta&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=1f6feb&text_color=c9d1d9&rank_icon=github" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=editzffaleta&layout=compact&langs_count=8&locale=pt-br&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&text_color=c9d1d9" alt="Linguagens mais usadas"/>
 </div>
 
 <div align="center">
@@ -126,6 +126,19 @@ mindmap
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=editzffaleta&bg_color=0d1117&color=c9d1d9&line=2ea043&point=1f6feb&area=true&area_color=2ea043&hide_border=true&custom_title=Gr%C3%A1fico%20de%20atividade" width="95%" alt="Gráfico de atividade"/>
 </div>
+
+<details>
+  <summary>📈 <b>Mais estatísticas</b> (clique para expandir)</summary>
+  <br/>
+  <div align="center">
+    <!-- Cards gerados e traduzidos pelo workflow .github/workflows/cards-ptbr.yml -->
+    <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="95%" alt="Detalhes do perfil"/>
+    <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="48%" alt="Horários mais produtivos"/>
+    <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" alt="Linguagens com mais commits"/>
+  </div>
+</details>
+
+<br/>
 
 <!-- COBRINHA DAS CONTRIBUIÇÕES -->
 ## 🐍 Cobrinha das contribuições
