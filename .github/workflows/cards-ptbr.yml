@@ -35,8 +35,11 @@ jobs:
         run: |
           sed -i \
             -e 's/contributions in the last year/contribuições no último ano/g' \
+            -e 's/Contributions on GitHub/Contribuições no GitHub/g' \
             -e 's/Contributions in /Contribuições em /g' \
+            -e 's/1 Contribuições/1 Contribuição/g' \
             -e 's/Public Repos/Repositórios Públicos/g' \
+            -e 's/1 Repositórios Públicos/1 Repositório Público/g' \
             -e 's/Joined GitHub \(.*\) ago/No GitHub há \1/g' \
             -e 's/há a year/há um ano/g' \
             -e 's/há \([0-9]*\) years/há \1 anos/g' \
@@ -55,6 +58,7 @@ jobs:
             -e 's/Total PRs/Total de PRs/g' \
             -e 's/Total Issues/Total de issues/g' \
             -e 's/Contributed to/Contribuiu para/g' \
+            -e 's/>Stats</>Estatísticas</g' \
             profile-summary-card-output/tokyonight/*.svg
 
       - name: Commitar e enviar os cards traduzidos
