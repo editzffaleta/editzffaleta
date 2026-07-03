@@ -21,7 +21,9 @@ jobs:
       - name: Gerar os cards (github-profile-summary-cards)
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Se o secret SUMMARY_GITHUB_TOKEN (PAT com escopo "repo") existir,
+          # os cards passam a incluir dados dos repositórios privados.
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: -3
