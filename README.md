@@ -34,7 +34,7 @@ const bruno = {
 type Desenvolvedor = typeof bruno; // em constante evolução 😉
 ```
 
-- 🔭 Atualmente construindo o **[OpenCraft](https://github.com/editzffaleta/OpenCraft)** — seu próprio assistente pessoal de IA
+- 🔭 Atualmente construindo novos projetos em **TypeScript** — em breve nesta página!
 - 🌱 Evoluindo todos os dias em **TypeScript** e no ecossistema web
 - 💬 Pode me chamar para falar de **JavaScript, Node.js e React**
 - ⚡ Lema: *código bom é código que resolve problema de verdade*
@@ -44,17 +44,31 @@ type Desenvolvedor = typeof bruno; // em constante evolução 😉
 
 <br/>
 
-<!-- PROJETO EM DESTAQUE -->
-## 🚀 Projeto em destaque
+<!-- ====================================================================
+PROJETOS EM DESTAQUE (ATIVE QUANDO OS REPOSITÓRIOS EXISTIREM)
+Para ativar: remova esta linha e a última do bloco de comentário,
+e ajuste os nomes dos repositórios ("repo=...") se necessário.
+
+## 🚀 Projetos em destaque
 
 <div align="center">
-  <a href="https://github.com/editzffaleta/OpenCraft">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=editzffaleta&repo=OpenCraft&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=1f6feb&text_color=c9d1d9" alt="OpenCraft"/>
+  <a href="https://github.com/editzffaleta/brasil-utils">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=editzffaleta&repo=brasil-utils&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=1f6feb&text_color=c9d1d9" alt="brasil-utils"/>
   </a>
-  <p><i>Seu próprio assistente pessoal de IA, em um universo só seu.<br/>Qualquer sistema operacional. Qualquer plataforma. Brasileiro. 🇧🇷</i></p>
+  <a href="https://github.com/editzffaleta/meu-bolso">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=editzffaleta&repo=meu-bolso&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=1f6feb&text_color=c9d1d9" alt="meu-bolso"/>
+  </a>
+  <br/>
+  <a href="https://github.com/editzffaleta/devbr-cli">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=editzffaleta&repo=devbr-cli&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=1f6feb&text_color=c9d1d9" alt="devbr-cli"/>
+  </a>
+  <a href="https://github.com/editzffaleta/taskboard-live">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=editzffaleta&repo=taskboard-live&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=1f6feb&text_color=c9d1d9" alt="taskboard-live"/>
+  </a>
 </div>
 
 <br/>
+==================================================================== -->
 
 <!-- TECNOLOGIAS -->
 ## 🛠️ Tecnologias & Ferramentas
@@ -87,7 +101,7 @@ mindmap
       Git & GitHub
       VS Code
     Construindo
-      OpenCraft 🤖
+      Ferramentas para devs 🧰
       Plataformas corporativas
 ```
 
@@ -112,18 +126,6 @@ mindmap
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=editzffaleta&bg_color=0d1117&color=c9d1d9&line=2ea043&point=1f6feb&area=true&area_color=2ea043&hide_border=true&custom_title=Gr%C3%A1fico%20de%20atividade" width="95%" alt="Gráfico de atividade"/>
 </div>
-
-<details>
-  <summary>📈 <b>Mais estatísticas</b> (clique para expandir)</summary>
-  <br/>
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=editzffaleta&theme=tokyonight" width="95%" alt="Detalhes do perfil"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=editzffaleta&theme=tokyonight&utcOffset=-3" width="48%" alt="Horários mais produtivos"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=editzffaleta&theme=tokyonight" width="48%" alt="Linguagens com mais commits"/>
-  </div>
-</details>
-
-<br/>
 
 <!-- COBRINHA DAS CONTRIBUIÇÕES -->
 ## 🐍 Cobrinha das contribuições
