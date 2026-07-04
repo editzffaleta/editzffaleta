@@ -55,6 +55,10 @@ type Desenvolvedor = typeof bruno; // em constante evolução 😉
     <a href="https://www.npmjs.com/package/brasil-utils"><img src="https://img.shields.io/npm/v/brasil-utils?style=flat&color=2ea043&label=npm" alt="brasil-utils no npm"/></a>
     <i> Validação e formatação de CPF, CNPJ, CEP, telefone, placa e Pix — zero dependências.</i>
   </p>
+  <a href="https://github.com/editzffaleta/meu-bolso">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=editzffaleta&repo=meu-bolso&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=1f6feb&text_color=c9d1d9" alt="meu-bolso"/>
+  </a>
+  <p><i>Dashboard full-stack de finanças pessoais — NestJS + Next.js + Prisma, importação CSV/OFX e categorização automática.</i></p>
 </div>
 
 <!-- ====================================================================
@@ -62,10 +66,6 @@ PRÓXIMOS PROJETOS (ATIVE QUANDO OS REPOSITÓRIOS EXISTIREM)
 Para ativar: mova o card para a seção acima.
 
 <div align="center">
-  <a href="https://github.com/editzffaleta/meu-bolso">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=editzffaleta&repo=meu-bolso&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=1f6feb&text_color=c9d1d9" alt="meu-bolso"/>
-  </a>
-  <br/>
   <a href="https://github.com/editzffaleta/devbr-cli">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=editzffaleta&repo=devbr-cli&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=1f6feb&text_color=c9d1d9" alt="devbr-cli"/>
   </a>
