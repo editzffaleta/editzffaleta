@@ -44,17 +44,24 @@ type Desenvolvedor = typeof bruno; // em constante evolução 😉
 
 <br/>
 
-<!-- ====================================================================
-PROJETOS EM DESTAQUE (ATIVE QUANDO OS REPOSITÓRIOS EXISTIREM)
-Para ativar: remova esta linha e a última do bloco de comentário,
-e ajuste os nomes dos repositórios ("repo=...") se necessário.
-
+<!-- PROJETOS EM DESTAQUE -->
 ## 🚀 Projetos em destaque
 
 <div align="center">
   <a href="https://github.com/editzffaleta/brasil-utils">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=editzffaleta&repo=brasil-utils&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=1f6feb&text_color=c9d1d9" alt="brasil-utils"/>
   </a>
+  <p>
+    <a href="https://www.npmjs.com/package/brasil-utils"><img src="https://img.shields.io/npm/v/brasil-utils?style=flat&color=2ea043&label=npm" alt="brasil-utils no npm"/></a>
+    <i> Validação e formatação de CPF, CNPJ, CEP, telefone, placa e Pix — zero dependências.</i>
+  </p>
+</div>
+
+<!-- ====================================================================
+PRÓXIMOS PROJETOS (ATIVE QUANDO OS REPOSITÓRIOS EXISTIREM)
+Para ativar: mova o card para a seção acima.
+
+<div align="center">
   <a href="https://github.com/editzffaleta/meu-bolso">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=editzffaleta&repo=meu-bolso&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=1f6feb&text_color=c9d1d9" alt="meu-bolso"/>
   </a>
