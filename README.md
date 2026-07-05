@@ -59,6 +59,13 @@ type Desenvolvedor = typeof bruno; // em constante evolução 😉
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=editzffaleta&repo=meu-bolso&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=1f6feb&text_color=c9d1d9" alt="meu-bolso"/>
   </a>
   <p><i>Dashboard full-stack de finanças pessoais — NestJS + Next.js + Prisma, importação CSV/OFX e categorização automática.</i></p>
+  <a href="https://github.com/editzffaleta/devbr-cli">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=editzffaleta&repo=devbr-cli&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=1f6feb&text_color=c9d1d9" alt="devbr-cli"/>
+  </a>
+  <p>
+    <a href="https://www.npmjs.com/package/devbr-cli"><img src="https://img.shields.io/npm/v/devbr-cli?style=flat&color=2ea043&label=npm" alt="devbr-cli no npm"/></a>
+    <i> Feriados, câmbio PTAX, CEP, CNPJ, DDD, FIPE, IBGE e bancos direto do terminal — <code>npx devbr-cli</code>.</i>
+  </p>
 </div>
 
 <!-- ====================================================================
@@ -66,9 +73,6 @@ PRÓXIMOS PROJETOS (ATIVE QUANDO OS REPOSITÓRIOS EXISTIREM)
 Para ativar: mova o card para a seção acima.
 
 <div align="center">
-  <a href="https://github.com/editzffaleta/devbr-cli">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=editzffaleta&repo=devbr-cli&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=1f6feb&text_color=c9d1d9" alt="devbr-cli"/>
-  </a>
   <a href="https://github.com/editzffaleta/taskboard-live">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=editzffaleta&repo=taskboard-live&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=1f6feb&text_color=c9d1d9" alt="taskboard-live"/>
   </a>
