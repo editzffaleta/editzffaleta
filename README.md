@@ -34,13 +34,13 @@ const bruno = {
 type Desenvolvedor = typeof bruno; // em constante evolução 😉
 ```
 
-- 🔭 Atualmente construindo novos projetos em **TypeScript** — em breve nesta página!
+- 🔭 Atualmente construindo novos projetos em **TypeScript** em breve nesta página!
 - 🌱 Evoluindo todos os dias em **TypeScript** e no ecossistema web
 - 💬 Pode me chamar para falar de **JavaScript, Node.js e React**
 - ⚡ Lema: *código bom é código que resolve problema de verdade*
 
 > [!TIP]
-> Estou sempre aberto a trocar ideia sobre projetos e colaborações — é só abrir uma issue ou discussão em qualquer repositório meu!
+> Estou sempre aberto a trocar ideia sobre projetos e colaborações é só abrir uma issue ou discussão em qualquer repositório meu!
 
 <br/>
 
